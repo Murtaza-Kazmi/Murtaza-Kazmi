@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Python, Typescript, React.js, Material UI, and Nextjs.
-- 🌱 I’m currently learning Quantum Computing & Programming, FE Dev, Business Intelligence (working on tools like Quicksight), Network Security, Operations & Tech Mgmt, HCI, & Arabic.
+- 🌱 I’m currently learning Quantum Computing & Programming, FE Dev, Business Intelligence (working on tools like Quicksight), Network Security, Operations & Tech Mgmt, Inferential Statistics, HCI, & Arabic.
 - 👯 I’m looking to collaborate on AI/Quantum research projects...
 - 🤔 I’m looking for help with FYP funding.
 - 📫 How to reach me: murtaza.kazmi.75@gmail.com
